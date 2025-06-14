@@ -617,7 +617,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
           <div className="text-center text-gray-600">
             <p className="mb-2">Emotional Weather Forecast - Understanding the climate of human feelings</p>
-            <p className="text-sm">Remember: Emotional weather is temporary, but your resilience is permanent ☀️</p>
+            <p className="text-sm">Remember: Emotional weather is temporary, but your resilience is permanent ☀️ Created by <a href="https://www.linkedin.com/in/madeleine-cckoh/" target="_blank" rel="noopener noreferrer" className="text-indigo-600 hover:text-indigo-800 transition-colors">Madeleine Koh</a></p>
           </div>
         </div>
       </footer>
